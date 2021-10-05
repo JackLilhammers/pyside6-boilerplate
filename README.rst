@@ -1,13 +1,13 @@
 Qt for Python Application Boilerplate
 ======================================
 
-This repository contains a boilerplate for Qt for Python (PySide6) based
-applications.
-It's based on my fork of Gerard Marull-Paretas' PySide2 work, here and here:
-    https://github.com/JackLilhammers/pyside2-boilerplate
-    https://github.com/gmarull/pyside2-boilerplate
+| This repository contains a boilerplate for Qt for Python (PySide6) based applications.
+| It's based on my fork of Gerard Marull-Paretas' PySide2 work:
 
-.. image:: https://user-images.githubusercontent.com/25011557/36483230-da4620c6-1715-11e8-9ee5-c10053641440.png
+- https://github.com/JackLilhammers/pyside2-boilerplate  
+- https://github.com/gmarull/pyside2-boilerplate
+
+.. image:: https://user-images.githubusercontent.com/18352578/136015450-f65085af-3b96-4f35-8034-9725903bead4.png
     :alt: Qt for Python Application Boilerplate
 
 Features
